@@ -1,0 +1,6 @@
+#!/bin/bash
+chmod u+x hello
+chmod +x 5-execute
+./5-execute
+ls -l
+-rwxrw-r-- 1 julien julien 23 Sep 20 14:25 hello
